@@ -1,1 +1,1 @@
-# trabajo-fundamento-computacion
+# grupo3-trabajo-fundamento-computacion
